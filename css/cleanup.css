@@ -15,7 +15,7 @@ body #wall #tag-3 {
   display: none;
 }
 
-.parent #tag-5 {
+#wall .parent #tag-5 {
   display: none;
 }
 
