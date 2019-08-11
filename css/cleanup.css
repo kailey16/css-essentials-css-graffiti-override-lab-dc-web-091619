@@ -7,7 +7,8 @@ body #wall #tag-2 {
   display: none;
 }
 
-body #wall .slick-wicked {
+body #wall .slick-wicked
+div#wall #tag-3.slick{
   display: none;
 }
 
