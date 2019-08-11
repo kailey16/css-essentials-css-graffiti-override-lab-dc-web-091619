@@ -10,3 +10,7 @@
 #tag-3 {
   display: none;
 }
+
+.parent .tag-1 {
+  display: none;
+}
