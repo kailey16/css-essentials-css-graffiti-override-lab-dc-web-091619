@@ -2,12 +2,12 @@
 #wall .tag-1 {
   display: none;
 }
-#wall #tag-2
+
 body #wall #tag-2 {
   display: none;
 }
-div#wall #tag-3.slick
-body #wall #tag-3.slick-wicked {
+
+body div#wall #tag-3.slick-wicked {
   display: none;
 }
 #wall #tag-4
@@ -22,7 +22,7 @@ div#wall .parent #tag-5.slick {
 div#wall div.parent div:last-child div#tag-6{
   display: none;
 }
-
+body div#wall div.parent div > #tag-7.slick
 body #wall .parent div .slick {
   display: none;
 }
