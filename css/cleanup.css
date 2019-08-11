@@ -11,7 +11,7 @@ body #wall #tag-3 {
   display: none;
 }
 
-.parent #tag-4 {
+#wall .parent #tag-4 {
   display: none;
 }
 
